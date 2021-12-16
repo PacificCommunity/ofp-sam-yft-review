@@ -2,7 +2,9 @@
 
 ## Meetings
 
-- **16 Dec 2021** (14:00 on US West Coast, 17 Dec 9:00 in Noumea)
+**16 Dec 2021** (14:00 on US West Coast, 17 Dec 9:00 in Noumea)
+
+- [Presentation](pdf/yft_review_2021_12_17.pdf)
 
 ## Documents
 
