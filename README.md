@@ -4,7 +4,11 @@
 
 **16 Dec 2021** (14:00 on US West Coast, 17 Dec 9:00 in Noumea)
 
-- [Presentation](pdf/yft_review_2021_12_17.pdf)
+*Presentations*
+
+- [2020 assessment](pdf/yft_review_2021_12_17_assmt.pdf) - Paul Hamer
+- [Review plan](pdf/yft_review_2021_12_17_review_plan.pdf) - Arni Magnusson
+
 
 ## Documents
 
