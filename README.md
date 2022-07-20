@@ -16,7 +16,7 @@
 *Main*
 
 - [Outline and work plan](pdf/yft_review_2022_02_25_outline.pdf) - 2022
-- [Review TORs](pdf/WCPFC-SC17-2021-SA-WP-06_OFP_SPC_Draft_TOR_YFT_review.pdf) - 2021
+- [Review TORs](pdf/WCPFC-SC17-SA-WP-06_Rev_YFT_peer_rev_TOR_Final_after_SC17.pdf) - 2021
 - [Last assessment report](pdf/WCPFC-SC16-SA-WP-04_YFT_stock_assessment_2020_Rev3.pdf) - 2020
 
 *Background*
