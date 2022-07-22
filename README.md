@@ -24,3 +24,9 @@
 - [WCP tuna overview and status of stocks](pdf/Hare_21_western_central_Pacific_tuna_fishery_stock_overview_2020.pdf) - 2021 Nov
 - [Background analyses for last assessment](pdf/WCPFC-SC16-SA-IP-06_BET_YFT_assess_back_analysesFNL.pdf) - 2020 Aug
 - [Analysis of longline CPUE](pdf/WCPFC-SC16-SA-IP-07_CPUE_anal_bet_yft_FINAL.pdf) - 2020 Aug
+
+## Analysis
+
+See the
+[yft-review-analysis](https://github.com/PacificCommunity/ofp-sam-yft-review-analysis)
+repository.
