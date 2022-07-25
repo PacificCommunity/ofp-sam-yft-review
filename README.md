@@ -6,7 +6,7 @@
 
 **16 Dec 2021** Online meeting (14:00 on US West Coast, 17 Dec 9:00 in Noumea)
 
-*Agenda*
+## Review workshop agenda
 
 Day        | Key activities
 ---------- | -----------------------------------------------------------------------------
