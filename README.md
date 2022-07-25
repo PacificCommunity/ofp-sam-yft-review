@@ -2,7 +2,20 @@
 
 ## Meetings
 
-**16 Dec 2021** (14:00 on US West Coast, 17 Dec 9:00 in Noumea)
+**16 Dec 2021** Online meeting (14:00 on US West Coast, 17 Dec 9:00 in Noumea)
+
+**7-13 Sep 2022** Review workshop in Noumea
+
+*Agenda*
+
+Day        | Key activities
+---------- | -----------------------------------------------------------------------------
+Wed 7 Sep  | Overview of 2017 and 2020 assessments, focus on regions and selectivities
+Thu 8 Sep  | Diagnose why 2020 assessment was more optimistic than the 2017 assessment
+Fri 9 Sep  | Synthesis of days 1 and 2, formulation of requested additional diagnostics
+(Weekend)  |
+Mon 12 Sep | Synthesis of additional diagnostics, model development for 2023 assessment
+Tue 13 Sep | Compare simple vs. complex regional structure, discussions, outline of report
 
 ## Presentations
 
