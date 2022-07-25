@@ -15,6 +15,7 @@
 
 *Main*
 
+- [Status update](pdf/WCPFC-SC18-SA-IP-08_YFT_review_status_update.pdf) - 2022 Jul
 - [Outline and work plan](pdf/yft_review_2022_02_25_outline.pdf) - 2022 Feb
 - [Review TORs](pdf/WCPFC-SC17-SA-WP-06_Rev_YFT_peer_rev_TOR_Final_after_SC17.pdf) - 2022 Jan
 - [Last assessment report](pdf/WCPFC-SC16-SA-WP-04_YFT_stock_assessment_2020_Rev3.pdf) - 2020 Aug
