@@ -2,9 +2,9 @@
 
 ## Meetings
 
-**16 Dec 2021** Online meeting (14:00 on US West Coast, 17 Dec 9:00 in Noumea)
-
 **7-13 Sep 2022** Review workshop in Noumea
+
+**16 Dec 2021** Online meeting (14:00 on US West Coast, 17 Dec 9:00 in Noumea)
 
 *Agenda*
 
