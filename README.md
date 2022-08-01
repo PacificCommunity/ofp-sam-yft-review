@@ -19,10 +19,10 @@ Tue 13 Sep | Compare simple vs. complex regional structure, discussions, outline
 
 ## Presentations
 
-- [PAW background](pdf/yft_review_2022_03_31_paw_background.pdf) - 2022 Mar
-- [PAW reproducible](pdf/yft_review_2022_03_31_paw_reproducible.pdf) - 2022 Mar
+- [PAW background and work plan](pdf/yft_review_2022_03_31_paw_background.pdf) - 2022 Mar
+- [PAW open and reproducible](pdf/yft_review_2022_03_31_paw_reproducible.pdf) - 2022 Mar
 - [Overview of 2020 assessment](pdf/yft_review_2021_12_17_assmt.pdf) - 2021 Dec
-- [Review plan](pdf/yft_review_2021_12_17_plan.pdf) - 2021 Dec
+- [Initial plan and discussion](pdf/yft_review_2021_12_17_plan.pdf) - 2021 Dec
 
 ## Documents
 
