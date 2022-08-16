@@ -18,16 +18,6 @@ G: Matt's powerpoint
 
 ---
 
-**A0.1** Was M changed at the CondAge step in the 2020 model development?
-
-**A0.2** Review the approach used to determine M at age and implications of
-         alternative M assumptions.
-
-**A0.3** What shape would be appropriate when estimating M at age from life
-         history parameters?
-
-**A0.4** What effect did the change in M have on depletion?
-
 **A1.a** Which fisheries, if any, should be grouped in terms of selectivity?
 
 **A1.b** Should one longline fishery within each region have a non-decreasing
@@ -80,9 +70,21 @@ G: Matt's powerpoint
 
 ---
 
-Is longline CPUE the most useful CPUE for the YFT assessment?
+**B1.1** Was M changed at the CondAge step in the 2020 model development?
 
-Should multiple CPUE indices be considered
+**B1.2** Review the approach used to determine M at age and implications of
+         alternative M assumptions.
+
+**B1.3** What shape would be appropriate when estimating M at age from life
+         history parameters?
+
+**B1.4** What effect did the change in M have on depletion?
+
+---
+
+Is longline CPUE the most useful CPUE index for the YFT assessment?
+
+Should multiple CPUE indices be considered?
 
 CPUE CV based on data only or scaled empirically to match the standard deviation
 of residuals?
