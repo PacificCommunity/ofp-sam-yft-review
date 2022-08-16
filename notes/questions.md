@@ -6,13 +6,13 @@ A. SC YFT review document
 
 B: TORs
 
-C: SC discussion items
+C: Paul's points from yesterday's chat
 
-D: Summary Report from 2020
+D: Jemery's points
 
-E: Paul's points
+E: SC 2022 discussion items
 
-F: Jemery's points
+F: Summary Report from 2020
 
 G: Matt's powerpoint
 
