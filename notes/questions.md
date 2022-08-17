@@ -106,7 +106,8 @@ N. Summary plots and tables
 ### H. Natural mortality
 
 1. Review the approach used to determine M at age and implications of
-   alternative M assumptions.
+   alternative M assumptions. Could tagging data be informative for estimating
+   M?
 
 2. What shape would be appropriate when estimating M at age from life history
    parameters?
