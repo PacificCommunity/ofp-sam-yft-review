@@ -4,60 +4,69 @@ The overarching reason for this YFT assessment review is the question:
 
 **Why was the 2020 assessment more optimistic than the previous assessment?**
 
-**A1.a** Which fisheries, if any, should be grouped in terms of selectivity?
+### A. Selectivity
 
-**A1.b** Should one longline fishery within each region have a non-decreasing
-         selectivity?
+1. Which fisheries, if any, should be grouped in terms of selectivity?
 
-**A1.c** Should selectivity be modelled using cubic splines or parametric
-         curves?
+2. Should one longline fishery within each region have a non-decreasing
+   selectivity?
 
-**A1.d** Selectivity can only be modelled as age-based in MFCL, is this
-         problematic for the YFT assessment?
+3. Should selectivity be modelled using cubic splines or parametric curves?
 
-**A2.a** Should the growth curve be estimated internally in the assessment model
-         or externally?
+4. Selectivity can only be modelled as age-based in MFCL, is this problematic
+   for the YFT assessment?
 
-**A2.b** Should lengths from tagging data be included when fitting an external
-         growth model?
+### B. Growth
 
-**A2.c** Should the growth follow a parametric von Bertalanffy curve, a
-         nonparametric curve, or in between (e.g., first 8 ages nonparametric)?
+1. Should the growth curve be estimated internally in the assessment model or
+   externally?
 
-**A2.d** Should other growth curves be considered as alternatives to von
-         Bertalanffy?
+2. Should lengths from tagging data be included when fitting an external growth
+   model?
 
-**A3** What is an appropriate maximum age in the YFT assessment?
+3. Should the growth follow a parametric von Bertalanffy curve, a nonparametric
+   curve, or in between (e.g., first 8 ages nonparametric)?
 
-**A4.a** Should the tag mixing period be 2 quarters or tag release group
-         specific (as done in the SKJ 2022 assessment)?
+4. Should other growth curves be considered as alternatives to von Bertalanffy?
 
-**A4.b** Is the tagging data informative about migrations, mortality, and/or
-         stock size?
+5. Should the external von Bertalanffy growth curve model be fitted to otoliths
+   only or tagging data plus otoliths? Results from both analyses are available,
+   presented in 2020.
 
-**A4.c** Could the tag-related plots in the assessment report be improved?
+### C. Maximum age
 
-**A5.a** Is it worth considering a simpler regional structure, e.g., a 4-region
-         model which might capture the main dynamics of the YFT fishery and have
-         better statistical properties of estimability?
+1. What is an appropriate maximum age in the YFT assessment?
 
-**A5.b** What should be the basis of regional boundaries? Aspects to consider,
-         including biology, fishery, management, model parsimony, model
-         convergence, estimability, ease of diagnostics, ease of interpretation?
+### D. Tags
 
-**A6.a** Should fishing mortality be estimated using a catch-errors or
-         catch-conditioning approach?
+1. Should the tag mixing period be 2 quarters or tag release group specific (as
+   done in the SKJ 2022 assessment)?
 
-**A6.b** Should recruitment be estimated using an orthogonal-polynomial
-         approach?
+2. Is the tagging data informative about migrations, mortality, and/or stock
+   size?
 
-**A6.c** In addition to the Dirichlet-multinomial approach to weight length
-         compositions, should the uncertainty grid include arbitrary sample size
-         scalars?
+3. Could the tag-related plots and tables in the assessment report be improved?
 
-**A6.d** A new alternative approach to model movement was trialled in the 2022
-         SKJ assessment but the results were not considered plausible. [This is
-         a placeholder for discussion].
+### E. Regions
+
+1. Is it worth considering a simpler regional structure, e.g., a 4-region model
+   which might capture the main dynamics of the YFT fishery and have better
+   statistical properties of estimability?
+
+2. What should be the basis of regional boundaries? Aspects to consider,
+   including biology, fishery, management, model parsimony, model convergence,
+   estimability, ease of diagnostics, ease of interpretation?
+
+### F. New MFCL features
+
+1. Should fishing mortality be estimated using a catch-errors or
+   catch-conditioning approach?
+
+2. Should recruitment be estimated using an orthogonal-polynomial approach?
+
+3. In addition to the Dirichlet-multinomial approach to weight length
+   compositions, should the uncertainty grid include arbitrary sample size
+   scalars?
 
 ---
 
