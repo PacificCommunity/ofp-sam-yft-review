@@ -201,6 +201,8 @@ Later:
 
 - Add a table/plot showing tag releases and recoveries by 9x9 region.
 
+---
+
 ### Sources for additional questions
 
 Summary Report from 2020
