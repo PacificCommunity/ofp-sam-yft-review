@@ -1,25 +1,5 @@
 # YFT Review Questions
 
-## Sources
-
-A. SC YFT review document
-
-B: TORs
-
-C: Paul's points from yesterday's chat
-
-D: Jemery's points
-
-E: Summary plots
-
-F: SC 2022 discussion items
-
-G: Summary Report from 2020
-
-H: Matt's powerpoint
-
----
-
 The overarching reason for this YFT assessment review is the question:
 
 **Why was the 2020 assessment more optimistic than the previous assessment?**
@@ -57,11 +37,13 @@ The overarching reason for this YFT assessment review is the question:
 
 **A4.c** Could the tag-related plots in the assessment report be improved?
 
-**A5.a** Should the YFT assessment be 9 regions or fewer?
+**A5.a** Is it worth considering a simpler regional structure, e.g., a 4-region
+         model which might capture the main dynamics of the YFT fishery and have
+         better statistical properties of estimability?
 
-**A5.b** What should be the basis of region boundaries? Aspects to consider,
+**A5.b** What should be the basis of regional boundaries? Aspects to consider,
          including biology, fishery, management, model parsimony, model
-         convergence, ease of interpretation?
+         convergence, estimability, ease of diagnostics, ease of interpretation?
 
 **A6.a** Should fishing mortality be estimated using a catch-errors or
          catch-conditioning approach?
@@ -93,39 +75,57 @@ The overarching reason for this YFT assessment review is the question:
 **B2.2** What fisheries and regions should be sampled for future close-kin
          mark-recapture data collection?
 
-**B3.1** Is the level of model complexity appropriate, including spatial and
+**B3.1** Should effort creep be included in the CPUE data and what is the best
+         way to do that?
+
+**B3.2** Can the VAST analysis from 2020 of yellowfin longline CPUE data be
+         improved for the next assessment?
+
+**B3.3** Should multiple CPUE indices be considered?
+
+**B3.4** Should additional process error be added to the CPUE index, e.g., using
+         a loess smoother and/or estimating an additional standard error?
+
+**B3.5** Should CPUE catchability ungrouped or grouped between regions, enabling
+         regional scaling?
+
+**B4.1** Is the level of model complexity appropriate, including spatial and
          fishery structure, in relation to data inputs and other available
          information.
 
-**B4.1** Is there a better way to represent uncertainty about management
+**B5.1** Is there a better way to represent uncertainty about management
          quantities, combining structural and estimation uncertainty?
 
-**B4.2** What model runs should be included in the structural uncertainty grid,
+**B5.2** What model runs should be included in the structural uncertainty grid,
          as opposed to one-off sensitivities, and how should they be weighted?
 
-**B4.3** If the estimation uncertainty about depletion is very small, evaluated
+**B5.3** If the estimation uncertainty about depletion is very small, evaluated
          using the delta method or likelihood profile, what other approaches
          could be used to evaluate the estimation uncertainty?
 
-**B5.1** Which standard stock assessment plots would be useful but are not
+**B6.1** Which standard stock assessment plots would be useful but are not
          provided in the assessment report?
 
-**B5.2** Which diagnostics would be useful but are not provided in the
+**B6.2** Which diagnostics would be useful but are not provided in the
          assessment report?
 
-**B5.3** How should model convergence be addressed in the assessment report,
+**B6.3** How should model convergence be addressed in the assessment report,
          criteria such as jittering of initial parameter values, parameters on
          bounds, final gradients, positive definite Hessian, parameter
          correlations, etc.
 
-**B5.4** Is there consistency between input and output variances for the CPUE,
+**B6.4** Is there consistency between input and output variances for the CPUE,
          length compositions, and tag recaptures?
 
 ---
 
 **D1.1** The 2020 assessment estimates a more optimistic stock status than the
          2017 assessment. Is this because of a larger numerator (SB), smaller
-         denominator (SBF=0), or both?
+         denominator (SBF=0, dynamic B0), or both?
+
+**D1.2** The 2020 assessment estimates a more optimistic stock status than the
+         2017 assessment. Is this because of changes in recruitment, M,
+         maturity, body weights, F, or dynamic B0 between the two assessments?
 
 **E1.1** Data: Total length comps over time (bubble plot or 3d histograms)
 
@@ -136,21 +136,6 @@ The overarching reason for this YFT assessment review is the question:
 **E2.1** Results: Population numbers at age as a table and/or bubble plot?
 
 **E2.2** Results: Also plot CPUE by year instead of quarters?
-
----
-
-Is longline CPUE the most useful CPUE index for the YFT assessment?
-
-Should multiple CPUE indices be considered?
-
-CPUE CV based on data only or scaled empirically to match the standard deviation
-of residuals?
-
-CPUE process error?
-
-Seasonal or annual CPUE?
-
-CPUE catchability grouped or ungrouped between regions?
 
 ---
 
@@ -166,3 +151,11 @@ Later:
   that have recapture rates lower than a given threshold.
 
 * Add a table/plot showing tag releases and recoveries by 9x9 region.
+
+## Sources for additional questions
+
+F: SC 2022 discussion items
+
+G: Summary Report from 2020
+
+H: Matt's powerpoint
