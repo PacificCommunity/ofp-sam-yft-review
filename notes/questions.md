@@ -4,6 +4,7 @@ The overarching reason for this YFT assessment review is the question:
 
 **Why was the 2020 assessment more optimistic than the previous assessment?**
 
+```
 A. Comparing 2017 and 2020 assessment
 B. Selectivity
 C. Growth
@@ -18,6 +19,7 @@ K. Model complexity
 L. Uncertainty
 M. Diagnostics
 N. Summary plots and tables
+```
 
 ---
 
@@ -189,17 +191,17 @@ N. Summary plots and tables
 
 Now:
 
-* Was M changed at the CondAge step in the 2020 model development?
+- Was M changed at the CondAge step in the 2020 model development?
 
 Later:
 
-* Add a diagnostic to the data inputs report, identifying tag release groups
+- Add a diagnostic to the data inputs report, identifying tag release groups
   that have recapture rates lower than a given threshold.
 
-* Add a table/plot showing tag releases and recoveries by 9x9 region.
+- Add a table/plot showing tag releases and recoveries by 9x9 region.
 
 ### Sources for additional questions
 
-G: Summary Report from 2020
+Summary Report from 2020
 
-H: Matt's powerpoint
+Matt's powerpoint
