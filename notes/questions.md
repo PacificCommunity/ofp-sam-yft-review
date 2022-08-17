@@ -20,6 +20,10 @@ H: Matt's powerpoint
 
 ---
 
+The overarching reason for this YFT assessment review is the question:
+
+**Why was the 2020 assessment more optimistic than the previous assessment?**
+
 **A1.a** Which fisheries, if any, should be grouped in terms of selectivity?
 
 **A1.b** Should one longline fishery within each region have a non-decreasing
@@ -97,7 +101,7 @@ H: Matt's powerpoint
          quantities, combining structural and estimation uncertainty?
 
 **B4.2** What model runs should be included in the structural uncertainty grid,
-         and how should they be weighted?
+         as opposed to one-off sensitivities, and how should they be weighted?
 
 **B4.3** If the estimation uncertainty about depletion is very small, evaluated
          using the delta method or likelihood profile, what other approaches
@@ -109,10 +113,19 @@ H: Matt's powerpoint
 **B5.2** Which diagnostics would be useful but are not provided in the
          assessment report?
 
-**B5.3** Is there consistency between input and output variances for the CPUE,
+**B5.3** How should model convergence be addressed in the assessment report,
+         criteria such as jittering of initial parameter values, parameters on
+         bounds, final gradients, positive definite Hessian, parameter
+         correlations, etc.
+
+**B5.4** Is there consistency between input and output variances for the CPUE,
          length compositions, and tag recaptures?
 
 ---
+
+**D1.1** The 2020 assessment estimates a more optimistic stock status than the
+         2017 assessment. Is this because of a larger numerator (SB), smaller
+         denominator (SBF=0), or both?
 
 **E1.1** Data: Total length comps over time (bubble plot or 3d histograms)
 
