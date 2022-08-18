@@ -207,4 +207,6 @@ Later:
 
 Summary Report from 2020
 
-Matt's powerpoint
+Matt's powerpoint (YFT work plan.pptx)
+
+Matt's text file (WorkingPlan.txt)
