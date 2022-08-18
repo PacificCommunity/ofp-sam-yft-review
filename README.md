@@ -45,3 +45,11 @@ Tue 13 Sep | Compare simple vs. complex regional structure, discussions, outline
 See the
 [yft-review-analysis](https://github.com/PacificCommunity/ofp-sam-yft-review-analysis)
 repository.
+
+## Questions
+
+[Comprehensive list of questions](notes/questions.md)
+
+## Report
+
+[Peer review reporting process](report/process.md)
