@@ -175,6 +175,11 @@ N. Summary plots and tables
 4. Is there consistency between input and output variances for the CPUE, length
    compositions, and tag recaptures?
 
+5. Diagnose possible problems fitting the data in Fishery 18, Indonesian
+   handline in Region 7. Is the observed catch in tonnes higher than the
+   estimated exploitable biomass, and is the fishing mortality hitting a
+   parameter bound at 1.3?
+
 ### N. Summary plots and tables
 
 1. Data: Total length comps over time (bubble plot or 3d histograms)
