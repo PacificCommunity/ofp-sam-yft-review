@@ -31,7 +31,7 @@ Tue 13 Sep | Compare simple vs. complex regional structure, discussions, outline
 - [Status update](pdf/WCPFC-SC18-SA-IP-08_YFT_review_status_update.pdf) - 2022 Jul
 - [Outline and work plan](pdf/yft_review_2022_02_25_outline.pdf) - 2022 Feb
 - [Review TORs](pdf/WCPFC-SC17-SA-WP-06_Rev_YFT_peer_rev_TOR_Final_after_SC17.pdf) - 2022 Jan
-- [Last assessment report](pdf/WCPFC-SC16-SA-WP-04_YFT_stock_assessment_2020_Rev3.pdf) - 2020 Aug
+- [2020 assessment report](pdf/WCPFC-SC16-SA-WP-04_YFT_stock_assessment_2020_Rev3.pdf) - 2020 Aug
 
 *Background*
 
@@ -39,6 +39,7 @@ Tue 13 Sep | Compare simple vs. complex regional structure, discussions, outline
 - [Background analyses for last assessment](pdf/WCPFC-SC16-SA-IP-06_BET_YFT_assess_back_analysesFNL.pdf) - 2020 Aug
 - [Analysis of longline CPUE](pdf/WCPFC-SC16-SA-IP-07_CPUE_anal_bet_yft_FINAL.pdf) - 2020 Aug
 - [SC Summary report](pdf/SC16_Summary_Report_adopted_on_06Nov2020_Att_A_fixed_Para_228_176_fixed.pdf) - 2020 Sep
+- [2017 assessment report](pdf/SC13-SA-WP-06 YFT-stock-assessment_2017_REV1.pdf) - 2017 Aug
 
 ## Analysis
 
