@@ -122,6 +122,8 @@ N. Summary plots and tables
 2. What fisheries and regions should be sampled for future close-kin
    mark-recapture data collection?
 
+3. What sex-specific data do we have and how are/could they be used?
+
 ### J. CPUE
 
 1. Should effort creep be included in the CPUE data and what is the best way to
@@ -143,10 +145,13 @@ N. Summary plots and tables
 1. Is the level of model complexity appropriate, including spatial and fishery
    structure, in relation to data inputs and other available information.
 
-2. Are the patterns of high recruitment in temperate regions and low recruitment
-   in region 8 (near Papua New Guinea) in agreement with the available data, or
-   can the model be simplified to reduce the possibility of model balancing
-   unrelated to data?
+2. Are the patterns of high recruitment in temperate regions and zero
+   recruitment in region 8 (PNG and Solomons) in agreement with the available
+   data, or can the model be simplified to reduce the possibility of model
+   balancing unrelated to data?
+
+3. Would a sex-specific model be likely to be helpful for providing management
+   advice?
 
 ### L. Uncertainty
 
