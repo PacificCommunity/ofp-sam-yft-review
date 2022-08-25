@@ -36,9 +36,9 @@ Tue 13 Sep | Compare simple vs. complex regional structure, discussions, outline
 *Background*
 
 - [WCP tuna overview and status of stocks](pdf/Hare_21_western_central_Pacific_tuna_fishery_stock_overview_2020.pdf) - 2021 Nov
-- [Background analyses for last assessment](pdf/WCPFC-SC16-SA-IP-06_BET_YFT_assess_back_analyses_Final.pdf) - 2020 Aug
-- [Analysis of longline CPUE](pdf/WCPFC-SC16-SA-IP-07_CPUE_anal_bet_yft_Final.pdf) - 2020 Aug
 - [SC Summary report](pdf/SC16_Summary_Report_adopted_on_06Nov2020_Att_A_fixed_Para_228_176_fixed.pdf) - 2020 Sep
+- [Data inputs: Background analyses for last assessment](pdf/WCPFC-SC16-SA-IP-06_BET_YFT_assess_back_analyses_Final.pdf) - 2020 Aug
+- [Data inputs: Analysis of longline CPUE](pdf/WCPFC-SC16-SA-IP-07_CPUE_anal_bet_yft_Final.pdf) - 2020 Aug
 - [2017 assessment report](pdf/WCPFC-SC13-SA-WP-06_YFT_stock_assessment_2017_Rev1.pdf) - 2017 Aug
 
 ## Analysis
