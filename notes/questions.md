@@ -92,6 +92,11 @@ N. Summary plots and tables
    including biology, fishery, management, model parsimony, model convergence,
    estimability, ease of diagnostics, ease of interpretation?
 
+3. Do the data indicate a change in the distribution and/or movement that could
+   be due to climate change, as has been the case with some other fish stocks in
+   the region, and is there something that could be improved in the assessment
+   to handle such changes?
+
 ### G. New MFCL features
 
 1. Should fishing mortality be estimated using a catch-errors or
@@ -152,6 +157,10 @@ N. Summary plots and tables
 
 3. Would a sex-specific model be likely to be helpful for providing management
    advice?
+
+4. Can the review panel provide technical recommendations to consider if the
+   yellowfin stock was analyzed using an alternative model framework, such as
+   Stock Synthesis?
 
 ### L. Uncertainty
 
