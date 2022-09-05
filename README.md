@@ -8,14 +8,14 @@
 
 ## Review workshop agenda
 
-Day        | Key activities
----------- | -----------------------------------------------------------------------------
-Wed 7 Sep  | Overview of 2017 and 2020 assessments, focus on regions and selectivities
-Thu 8 Sep  | Diagnose why 2020 assessment was more optimistic than the 2017 assessment
-Fri 9 Sep  | Synthesis of days 1 and 2, formulation of requested additional diagnostics
+Day        | Time       | Key activities
+---------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Wed 7 Sep  | 9:00-15:30 | Overview of the 2020 input data and assessment, quick overview and discussion of potential review questions (including fisheries and selectivities, growth, natural mortality, and regional structure), decide on specific questions to focus on in the review report, consider appropriate structure of the review report
+Thu 8 Sep  | 8:00-15:30 | In-depth look at selected review questions, browse existing analyses and model runs that are related to those questions, formulate new model runs to address specific questions
+Fri 9 Sep  | 8:00-15:30 | In-depth look at selected review questions, browse existing analyses and model runs that are related to those questions, formulate new model runs to address specific questions
 (Weekend)  |
-Mon 12 Sep | Synthesis of additional diagnostics, model development for 2023 assessment
-Tue 13 Sep | Compare simple vs. complex regional structure, discussions, outline of report
+Mon 12 Sep | 8:00-15:30 | Synthesis of findings, revisit the structure of the review report, decide whether to cover additional review questions or continue analyses and explorations from previous days, discuss model development for 2023 assessment
+Tue 13 Sep | 8:00-15:30 | Synthesis of findings, revisit the structure of the review report, decide whether to cover additional review questions or continue analyses and explorations from previous days, discuss model development for 2023 assessment
 
 ## Presentations
 
