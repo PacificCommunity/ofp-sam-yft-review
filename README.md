@@ -9,8 +9,8 @@
 ## Review workshop agenda
 
 Day        | Time       | Key activities
----------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Wed 7 Sep  | 9:00-15:30 | Overview of the 2020 input data and assessment, quick overview and discussion of potential review questions (including fisheries and selectivities, growth, natural mortality, and regional structure), decide on specific questions to focus on in the review report, consider appropriate structure of the review report
+---------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Wed 7 Sep  | 9:00-15:30 | Overview of the 2020 input data and assessment, quick overview and discussion of potential [review questions](notes/questions.md) (including fisheries and selectivities, growth, natural mortality, and regional structure), decide on specific questions to focus on in the review report, consider appropriate structure of the review report
 Thu 8 Sep  | 8:00-15:30 | In-depth look at selected review questions, browse existing analyses and model runs that are related to those questions, formulate new model runs to address specific questions
 Fri 9 Sep  | 8:00-15:30 | In-depth look at selected review questions, browse existing analyses and model runs that are related to those questions, formulate new model runs to address specific questions
 (Weekend)  |
