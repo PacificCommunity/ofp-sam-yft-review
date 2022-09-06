@@ -10,12 +10,27 @@
 
 Day        | Time       | Key activities
 ---------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Wed 7 Sep  | 9:00-15:30 | Overview of the 2020 input data and assessment, quick overview and discussion of potential [review questions](notes/questions.md) (including fisheries and selectivities, growth, natural mortality, and regional structure), decide on specific questions to focus on in the review report, consider appropriate structure of the review report
-Thu 8 Sep  | 8:00-15:30 | In-depth look at selected review questions, browse existing analyses and model runs that are related to those questions, formulate new model runs to address specific questions
-Fri 9 Sep  | 8:00-15:30 | In-depth look at selected review questions, browse existing analyses and model runs that are related to those questions, formulate new model runs to address specific questions
+Wed 7 Sep  | 9:00-17:30 | Overview of the 2020 input data and assessment, quick overview and discussion of potential [review questions](notes/questions.md) (including fisheries and selectivities, growth, natural mortality, and regional structure), decide on specific questions to focus on in the review report, consider appropriate structure of the review report
+Thu 8 Sep  | 8:00-17:30 | In-depth look at selected review questions, browse existing analyses and model runs that are related to those questions, formulate new model runs to address specific questions
+Fri 9 Sep  | 8:00-17:30 | In-depth look at selected review questions, browse existing analyses and model runs that are related to those questions, formulate new model runs to address specific questions
 (Weekend)  |
-Mon 12 Sep | 8:00-15:30 | Synthesis of findings, revisit the structure of the review report, decide whether to cover additional review questions or continue analyses and explorations from previous days, discuss model development for 2023 assessment
-Tue 13 Sep | 8:00-15:30 | Synthesis of findings, revisit the structure of the review report, decide whether to cover additional review questions or continue analyses and explorations from previous days, discuss model development for 2023 assessment
+Mon 12 Sep | 8:00-17:30 | Synthesis of findings, revisit the structure of the review report, decide whether to cover additional review questions or continue analyses and explorations from previous days, discuss model development for 2023 assessment
+Tue 13 Sep | 8:00-17:30 | Synthesis of findings, revisit the structure of the review report, decide whether to cover additional review questions or continue analyses and explorations from previous days, discuss model development for 2023 assessment
+
+**General Daily Plan**
+
+Time        | Activities
+----------- | ----------------------------------------------------------------------------------
+08:00-08:30 | Recap and any overnight 'light bulb' moments, new model results
+08:30-08:45 | Revise goals/focus for today
+08:45-10:00 | Tackling issues/reviewing new analyses
+10:00-10:30 | (Morning tea)
+10:30-12:30 | Tackling issues/reviewing new analyses
+12:30-13:30 | (Lunch)
+13:30-14:30 | Tackling issues/reviewing new analyses
+14:30-15:00 | (Afternoon tea)
+15:00-15:30 | Plan for tomorrow/summarise any overnight work to do, model runs etc.
+15:30-17:30 | OFP staff set-up models, prepare other information requested by panel for next day
 
 ## Presentations
 
