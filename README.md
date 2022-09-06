@@ -34,6 +34,9 @@ Time        | Activities
 
 ## Presentations
 
+- [Review: Background and data inputs](pdf/yft_review_2022_09_07_background_data_inputs.pdf) - 2022 Sep
+- [Review: Overview and questions](pdf/yft_review_2022_09_07_overview_questions.pdf) - 2022 Sep
+- [Review: Dynamic B0](pdf/yft_review_2022_09_07_dynamic_b0.pdf) - 2022 Sep
 - [PAW background and work plan](pdf/yft_review_2022_03_31_paw_background.pdf) - 2022 Mar
 - [PAW open and reproducible](pdf/yft_review_2022_03_31_paw_reproducible.pdf) - 2022 Mar
 - [Overview of 2020 assessment](pdf/yft_review_2021_12_17_assmt.pdf) - 2021 Dec
