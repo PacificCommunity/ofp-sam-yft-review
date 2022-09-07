@@ -1,5 +1,15 @@
 # Yellowfin tuna assessment review
 
+## Shiny apps
+
+**Original**
+
+https://ofp-sam.shinyapps.io/yft-stepwise-2020/
+
+**Day 2**
+
+https://arni-magnusson.shinyapps.io/day2/
+
 ## Meetings
 
 **7-13 Sep 2022** Review workshop in Noumea
