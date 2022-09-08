@@ -10,6 +10,10 @@ https://ofp-sam.shinyapps.io/yft-stepwise-2020/
 
 https://arni-magnusson.shinyapps.io/day2/
 
+## Description of stepwise changes (flags and data)
+
+https://github.com/PacificCommunity/ofp-sam-yft-review-analysis/blob/main/notes/stepwise-findings.md
+
 ## Meetings
 
 **7-13 Sep 2022** Review workshop in Noumea
