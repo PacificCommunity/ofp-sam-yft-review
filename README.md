@@ -4,11 +4,15 @@
 
 **Original**
 
-https://ofp-sam.shinyapps.io/yft-stepwise-2020/
+* https://ofp-sam.shinyapps.io/yft-stepwise-2020/
 
-**Day 2**
+**Day 5**
 
-https://arni-magnusson.shinyapps.io/day2/
+* https://arni-magnusson.shinyapps.io/stepwise-2020/
+
+* https://arni-magnusson.shinyapps.io/john/
+
+* https://arni-magnusson.shinyapps.io/nick/
 
 ## Description of stepwise changes (flags and data)
 
