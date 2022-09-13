@@ -2,10 +2,6 @@
 
 ## Shiny apps
 
-**Original**
-
-* https://ofp-sam.shinyapps.io/yft-stepwise-2020/
-
 **Day 5**
 
 * https://arni-magnusson.shinyapps.io/stepwise-2020/
