@@ -72,6 +72,7 @@ Time        | Activities
 - [Data inputs: Background analyses for last assessment](pdf/WCPFC-SC16-SA-IP-06_BET_YFT_assess_back_analyses_Final.pdf) - 2020 Aug
 - [Data inputs: Analysis of longline CPUE](pdf/WCPFC-SC16-SA-IP-07_CPUE_anal_bet_yft_Final.pdf) - 2020 Aug
 - [2017 assessment report](pdf/WCPFC-SC13-SA-WP-06_YFT_stock_assessment_2017_Rev1.pdf) - 2017 Aug
+- [2014 assessment report](pdf/WCPFC-SC10-SA-WP-04_YFT_stock_assessment_2014_Rev1.pdf) - 2014 Aug
 
 ## Analysis
 
