@@ -2,7 +2,7 @@
 
 ## Shiny apps
 
-**Day 5**
+By the end of the review workshop, three Shiny apps had been released:
 
 * https://arni-magnusson.shinyapps.io/stepwise-2020/
 
@@ -12,7 +12,7 @@
 
 ## Description of stepwise changes (flags and data)
 
-https://github.com/PacificCommunity/ofp-sam-yft-review-analysis/blob/main/notes/stepwise-findings.md
+https://github.com/PacificCommunity/ofp-sam-yft-review-analysis/blob/main/notes/stepwise-changes.md
 
 ## Meetings
 
