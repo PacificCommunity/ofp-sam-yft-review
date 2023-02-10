@@ -32,7 +32,15 @@ Try to develop models based on technological changes in asociation with DWFN
 
 ## 8. Tagging data
 
-More tag seeding experiments and continue exploring variable
+More tag seeding experiments and continue exploring variable mixing periods
+
+## 8. Catches
+
+Include uncertainty in Philippines and Indonesian catches bfore 1990 in assessment
+
+## 9. Selectivity parameterization
+
+Multiple approaches to try to imporve fits to length data
 
 # Initial list
 
