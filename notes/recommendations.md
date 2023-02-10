@@ -1,4 +1,40 @@
-# List of Recommendations from the Review of the 2020 Yellowfin Tuna Assessment
+# List of Recommendations from the Independent Review of Recent (2020) WCPO Yellowfin Tuna Assessment
+
+Sourced from from Appendix H of WCPFC-SC19-2023/SA-WP-01
+
+## 1. Resourcing
+
+The analysts be given more time or additional technical support
+
+## 2. Model Changes
+
+Each step in the bridging analysis should involve only one change
+
+## 3. Natural Moratality
+
+Keep the current approach, but with alternative base values for M in the uncertainty grid 
+
+## 4. Growth
+
+Estimate growth internally using conditional age-at-length data
+
+## 5. Size composition
+
+Review input sample size units (shots/trips), maximum input caps and weighting
+
+## 6. CPUE
+
+Explore shared catchability, selectivity, regional weighting and high values in the north and south
+
+## 7. Effort Creep
+
+Try to develop models based on technological changes in asociation with DWFN
+
+## 8. Tagging data
+
+More tag seeding experiments and continue exploring variable
+
+# Initial list
 
 ## Rec 1 (p. 3)
 
