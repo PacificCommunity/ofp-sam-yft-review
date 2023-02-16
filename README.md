@@ -5,9 +5,7 @@
 By the end of the review workshop, three Shiny apps had been released:
 
 * https://arni-magnusson.shinyapps.io/stepwise-2020/
-
 * https://arni-magnusson.shinyapps.io/john/
-
 * https://arni-magnusson.shinyapps.io/nick/
 
 ## Description of stepwise changes (flags and data)
@@ -60,6 +58,7 @@ Time        | Activities
 
 *Main*
 
+- [Final report](pdf/WCPFC-SC19-SA-WP-01_YFT_stock_assessment_review.pdf) - 2023 Feb
 - [Status update](pdf/WCPFC-SC18-SA-IP-08_YFT_review_status_update.pdf) - 2022 Jul
 - [Outline and work plan](pdf/yft_review_2022_02_25_outline.pdf) - 2022 Feb
 - [Review TORs](pdf/WCPFC-SC17-SA-WP-06_Rev_YFT_peer_rev_TOR_Final_after_SC17.pdf) - 2022 Jan
@@ -67,7 +66,7 @@ Time        | Activities
 
 *Background*
 
-- [WCP tuna overview and status of stocks](pdf/Hare_21_western_central_Pacific_tuna_fishery_stock_overview_2020.pdf) - 2021 Nov
+- [WCP tuna overview and status of stocks](pdf/FAR_21_western_central_pacific_tuna_fishery_stock_overview_2020.pdf) - 2021 Nov
 - [SC Summary report](pdf/SC16_Summary_Report_adopted_on_06Nov2020_Att_A_fixed_Para_228_176_fixed.pdf) - 2020 Sep
 - [Data inputs: Background analyses for last assessment](pdf/WCPFC-SC16-SA-IP-06_BET_YFT_assess_back_analyses_Final.pdf) - 2020 Aug
 - [Data inputs: Analysis of longline CPUE](pdf/WCPFC-SC16-SA-IP-07_CPUE_anal_bet_yft_Final.pdf) - 2020 Aug
